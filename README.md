@@ -1,4 +1,4 @@
-# Art-tore
+# Art-store
 
 **Живое демо:** https://yakushev-sergey.github.io/Art-tore/
 
